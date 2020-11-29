@@ -1,0 +1,11 @@
+{
+    "loginUrl": "<direccion-donde-hacer-login>",
+    "replaceUrl": "<cadena-que-se-eliminará-de-la-redirectionUrl-para-colocar-el-token>",
+    "redirectionUrl": "<url-donde-se-inicia-sesión>",
+    "userInput": "input[name=user]",
+    "passInput": "input[name=password]",
+    "loginContainer": "grace-login",
+    "successLoaderContainer": "<contenedor-que-se-muestra-si-todo-va-bien>",
+    "user": "user",
+    "pass": "password"
+}
